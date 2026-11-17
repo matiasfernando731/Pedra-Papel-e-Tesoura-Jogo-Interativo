@@ -19,7 +19,6 @@ Localize o arquivo index.html.
 Abra o arquivo em um navegador de internet.
 Escolha entre Pedra, Papel ou Tesoura e divirta-se!
 👨‍💻 Autor
-
-[COLOQUE SEU NOME COMPLETO AQUI]
+Matias Fernando Mamani
 
 Projeto desenvolvido como atividade de conclusão do curso.
